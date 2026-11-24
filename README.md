@@ -1,5 +1,7 @@
 # Twitch Crosshair Overlay
 
+![Preview Crosshair 2x2px white dot](screenshot.jpg)
+
 A lightweight JavaScript snippet that injects a customizable center-screen crosshair dot directly into the Twitch video player. Perfect for FPS streams when the streamer has their in-game crosshair disabled or hidden.
 
 ## Features
